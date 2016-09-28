@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+/*最新新闻*/
+.news1_content{ width:1000px; margin:0 auto; text-align:center; height:auto;}
+.new_top{ margin:0 auto; position:relative;}
+.new_top p{ color:#666;}
+.new_textall{ margin:10px;}
+.new_textall p{ text-indent:2em; text-align:justify; color:#333333; line-height:30px; font-size:16px;}
+.new_foot{ text-indent:2em; text-align:justify; margin:10px;}
+.new_textall h1{ color:#333333; font-size:18px; text-align:center;}
+.toplabel{ font-size:14px; color:#333333; height:30px; line-height:30px;}
+.toplabel a{ font-size:14px; color:#333333; text-decoration:none;}
+
+/*前言科技*/
+/*第一种*/
+.news2_content{ width:1000px; margin:0 auto; position:relative;}
+.news2_content h1{ font-size:20px; color:#216ABB; text-align:center; margin-top:20px;}
+.textall{ width:100%; margin-bottom:200px; margin-top:30px;}
+.text_left{ width:380px; overflow:hidden; float:left; margin-left:90px; margin-right:10px; margin-top:20px;}
+.text_right{ width:400px; text-indent:2em; text-align:justify; float:left; margin-right:90px; margin-left:10px; margin-bottom:20px; line-height:30px;}
+.text_right p{ font-size:16px; color:#333;}
+.new2_foot{ text-indent:2em; text-align:justify; margin-left:490px; position:relative;}
+
+/*第二种*/
+.text_left2{ width:400px; text-indent:2em; text-align:justify; float:left; margin-right:10px; margin-left:90px; margin-bottom:20px; line-height:30px;}
+.text_left2 p{ font-size:16px; color:#333;}
+.text_right2{ width:380px; overflow:hidden; float:left; margin-left:10px; margin-right:90px; margin-top:20px;}
+.new2_footright{ text-indent:2em; text-align:justify; margin-left:90px;}
